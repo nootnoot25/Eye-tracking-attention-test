@@ -1,6 +1,6 @@
 # Color Matching Test with Gaze Estimation
 
-This Python program uses OpenCV, Pygame, Mediapipe, and Numpy to conduct a color matching test with gaze estimation. The program presents blue and red squares on the screen and requires the user to focus on them based on gaze direction, detected using a webcam and Mediapipe's face mesh.
+This Python program uses OpenCV, Pygame, Mediapipe, and Numpy to conduct a color matching test with gaze estimation. The program presents blue and red squares on the screen and requires the user to focus on them based on gaze direction, detected using a webcam and Mediapipe's face mesh. This test is based on continuous performance tests used for ADHD screening
 
 ## Requirements
 
